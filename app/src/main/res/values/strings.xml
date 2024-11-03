@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conexion a SQLite Agenda</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+    <string name="crear_base_datos">Crear Base Datos</string>
+</resources>
